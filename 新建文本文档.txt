@@ -1,1 +1,2 @@
 我是一个兵
+public static final main
