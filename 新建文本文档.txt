@@ -1,1 +1,2 @@
+﻿public static
 123什么东西
